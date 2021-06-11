@@ -1,5 +1,6 @@
 Full_name: Bolin Centre Database 
 Acronym:
-Definition: The [Bolin Centre Database](https://bolin.su.se/data/) is a repository for data and source code collected and collated at the Bolin Centre for Climate Research. 
+Definition: | 
+  The Bolin Centre Database is a repository for data and source code collected and collated at the Bolin Centre for Climate Research. 
 Tags: Data repository
-Link:
+Link: https://bolin.su.se/data/
