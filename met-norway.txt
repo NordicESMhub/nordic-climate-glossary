@@ -1,4 +1,4 @@
-Full_name: Met-Norway
+Full_name: Meteorologisk institutt
 Acronym: Met-Norway
 Definition: Met-Norway
 Tags: institution
