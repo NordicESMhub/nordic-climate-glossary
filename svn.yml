@@ -2,5 +2,5 @@ Full_name: Apache subversion
 Acronym: svn
 Definition: svn is a software versioning and revision control system. The first version was released in 2000 and it has been very popular but is noew often replaced by Git.
 Tags: software
-Link: [Apache Subversion](#apache_subversion)
+Link: [Apache Subversion](apache_subversion.yml)
 
